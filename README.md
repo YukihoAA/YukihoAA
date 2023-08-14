@@ -1,6 +1,28 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord&column=-1&no-frame=true&rank=-C,-?,-B)](https://github.com/ryo-ma/github-profile-trophy)<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true&theme=transparent)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)<br />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YukihoAA&layout=compact&theme=dark&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YukihoAA&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukihoAA&layout=compact&langs_count=8" />
+</picture>
 
 
 <!--
