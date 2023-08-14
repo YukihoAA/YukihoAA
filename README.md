@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord&column=-1&no-frame=true&rank=-C,-?,-B)](https://github.com/ryo-ma/github-profile-trophy)<br />
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true&theme=dark"
@@ -23,6 +21,8 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukihoAA&layout=compact&langs_count=8" />
 </picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord&column=-1&no-frame=true&rank=-C,-?,-B)](https://github.com/ryo-ma/github-profile-trophy)<br />
 
 
 <!--
