@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord&column=-1&no-frame=true&rank=-C,-?,-B)](https://github.com/ryo-ma/github-profile-trophy)<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true&theme=dark)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukihoAA&show_icons=true&theme=transparent)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)<br />
 
 
 <!--
