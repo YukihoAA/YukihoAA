@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YukihoAA&theme=nord&column=-1&no-frame=true&rank=-C,-UNKNOWN,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **YukihoAA/YukihoAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
