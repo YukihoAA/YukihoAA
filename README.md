@@ -1,6 +1,3 @@
-# Contact
-<img src="https://img.shields.io/badge/yukihoaa@gmail.com-2979DE?logo=gmail&logoColor=white&labelColor=grey" /> 
-
 # Coverage
 <img src="https://img.shields.io/badge/C++-40A0D3?logo=Cplusplus&labelColor=3979DE" /> <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=10A4BF&labelColor=333333" /> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&labelColor=333333" /> <img src="https://img.shields.io/badge/AWS-grey?logo=amazonwebservices&labelColor=333333" /> <img src="https://img.shields.io/badge/Unity-grey?logo=unity&labelColor=333333" /> <img src="https://img.shields.io/badge/Blender-grey?logo=blender&labelColor=333333" />
 
