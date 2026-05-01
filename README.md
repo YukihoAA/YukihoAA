@@ -1,4 +1,4 @@
-# Stats
+## GitHub Summary
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/?username=YukihoAA&show_icons=true&theme=dark&include_all_commits=true"
@@ -48,5 +48,5 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,vim" />
 <img src="https://skillicons.dev/icons?i=cmake,github,git,r,opencv" />
-<img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,notion" />
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,notion" />
 
