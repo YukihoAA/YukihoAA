@@ -1,4 +1,3 @@
-## GitHub Summary
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/?username=YukihoAA&show_icons=true&theme=dark&include_all_commits=true"
